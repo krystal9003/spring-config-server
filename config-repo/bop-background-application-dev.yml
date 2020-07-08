@@ -1,0 +1,10 @@
+baiduApi:
+  #内容评审应用信息
+  contentCensor:
+    appId: 20067289_dev
+    apiKey: GoBO0IEbg3enT232Gm9xirVQ_dev
+    secretKey: lpBS61fdsYlmHfGfqbHNDs5ZHF2yHTxg_dev
+    #建立连接的超时时间（单位：毫秒）
+    connectionTimeoutInMillis: 5000
+    #通过打开的连接传输数据的超时时间（单位：毫秒）
+    socketTimeoutInMillis: 60000
