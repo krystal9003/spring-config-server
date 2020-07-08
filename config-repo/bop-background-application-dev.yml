@@ -1,7 +1,7 @@
 baiduApi:
   #内容评审应用信息
   contentCensor:
-    appId: 20067289_dev
+    appId: appid
     apiKey: GoBO0IEbg3enT232Gm9xirVQ_dev
     secretKey: lpBS61fdsYlmHfGfqbHNDs5ZHF2yHTxg_dev
     #建立连接的超时时间（单位：毫秒）
